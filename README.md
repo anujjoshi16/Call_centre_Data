@@ -49,6 +49,11 @@ The report's data source, refresh schedule, and data dictionary should be docume
 - Test refresh and validate totals against the source data.
 - Avoid publishing sensitive caller or customer information.
 
+
+<h2>Dashboard Preview</h2>
+
+<img src="Screenshot 2026-10-09 151008.png" alt="Call Center Dashboard" width="800"/>
+
 ## Project Structure
 ```text
 .
